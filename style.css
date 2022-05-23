@@ -87,3 +87,39 @@ ul {
   justify-content: center;
 }
 
+a:hover{
+  color: orange;
+}
+
+a img:hover,
+li a:hover {
+  transform: translateY(-8px);
+}
+
+/*======= RESPONSIVO ==============================*/
+@media (min-width: 960px) {
+  
+  /*====== geral ==============================*/
+  body {
+    overflow: auto;
+  }
+
+  main{
+    background: var(--black);
+  }
+
+  .container {
+    background: url(images/background.svg) no-repeat center/cover;
+    max-width: 375px;
+    height: 730px;
+  }
+
+  .avatar span {
+    margin-top: 9rem;
+  }
+  
+  .avatar > img {
+    margin-top: 9rem;
+  }
+  
+}
