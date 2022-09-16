@@ -3,7 +3,7 @@
     github: 'olgajuanne',
     youtube: 'channel/UCb0cXdGPYdlVA6a4eZcGKcQ',
     facebook: 'olgajuanne',
-    instagram: 'maykbrito',
+    linkedin: 'in/olga-nunes-155b49a2/',
     twitter: 'OlgaJSN'
   }
 
